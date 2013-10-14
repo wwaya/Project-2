@@ -1,0 +1,49 @@
+Milestone #1
+	September 19 2013
+	Setting the basic concept of the program. Had a couple confusions over the design and
+	still needs to figure out how to deal with multiple inheritances.
+	
+Milestone #2
+	September 24, 2013
+	Got everything done with the design, but needs to test out and see if the design workes
+	properly that both of us expected.
+	
+Milestone #3
+	September 25, 2013
+	Finish implementing the adding method. Worked out well so far.
+	
+Milestone #4
+	September 29, 2013
+	Not clear over sorting and searching...
+	
+Milestone #5. 
+	September 30, 2013
+	Had a research over textbook of the difference between Comparable and Comparator interface.
+	Didn't help a lot, needs to test out.
+	
+Milestone #6.
+	Oct. 1, 2013
+	Working on implementing interfaces, and the data did not sorted at all for some reason..
+	
+Milestone #7. 
+	Oct.2, 2013
+	Finish writing a menu loop, and works properly, had no problem with quitting program or 
+	input mistakes and everything. Still suffering from the comparing and searching...
+	
+	
+Questions.
+
+*******Was not able to perform searching methods****
+Title:
+Order       Search Time    Search Time    Search Time    Search Time    Search Time
+-----       -----------    -----------    -----------    -----------    -----------
+BI
+AN
+PT
+ST
+CH
+R
+
+A: Implementing binary search will be applicable for all criteria except for searching for author name, serial title, paper type and random methods.
+	Because once the lists are sorted with unique string, it would be easy to perform, but once there are same varibles are stored, it would be no efficient
+	to perform since there will be a confusion over the algorithm and will be possible to pull out the results that would not be expected..
